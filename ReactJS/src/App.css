@@ -1,0 +1,154 @@
+.main-container{
+  width: 567;
+  height: fit-content;
+  margin-left: 30px;
+}
+
+.search-panel{
+  border: 1px solid;
+  width: 567px;
+  height: 40px;
+  background-color: aquamarine;
+}
+
+.table{
+  margin-top: 15px;
+  width: 567px;
+  text-align: center;
+  height: fit-content;
+  border: 1px solid;
+  height: fit-content;;
+}
+
+.searchinput{
+  border: 1px solid;
+  border-radius: 5px;
+  width: 200px;
+  margin-left: 5px;
+  height: 25px;
+  margin-top: 5px;
+  background-color: antiquewhite;
+  border-collapse: collapse;
+}
+
+th{
+    border: 1px solid;
+    font-size: 17px;
+    line-height: 20px;
+    background-color: rgb(186, 122, 245);
+}
+
+tr:nth-child(even){
+  background-color: rgb(198, 190, 205);
+}
+
+td{
+    border: 1px solid;
+      height: fit-content;
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.addBtn{
+  float: right;
+  border: 1px solid;
+  border-radius: 5px;
+  margin-top: 5px;
+  width: 87px;
+  font-size: 13px;
+  line-height: 15px;
+  margin-right: 5px;
+  color: darkseagreen;
+  background-color: lightblue;
+}
+
+h3{
+  text-align: center;
+  color: blue;
+}
+
+.addPopup{
+border: 1px solid;
+  width: 300px;
+  height: 300px;
+  background-color: aqua;
+  z-index: 1;
+
+}
+
+.closeBtn{
+  float: right;
+  margin-right: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+h4{
+text-align: center;
+margin-top: 5px;
+color: black;
+border: 1px solid;
+border-radius: 5px;
+margin-left: 15px;
+margin-right: 25px;
+background-color: aqua;
+}
+
+.popupdiv{
+  margin-left: 15px;
+}
+
+.popupinput{
+  font-size: 15px;
+  width: 185px;
+  border: 1px solid;
+  border-radius: 5px;
+  height: 25px;
+}
+
+.addCustomer{
+  margin-top: 15px;
+  margin-left: 15px;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 13px;
+  line-height: 15px;
+  background-color: aquamarine;
+}
+
+
+.paginationdev{
+  margin-top: 5px;
+}
+
+.pagBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 15px;
+  background-color: aquamarine;
+  margin: 2px;
+}
+
+.deleteBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 15px;
+  background-color: aquamarine;
+  margin: 2px;
+}
+
+.editBtn{
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 10px;
+  line-height: 15px;
+  background-color: aquamarine;
+  margin: 2px;
+}
+
+.err{
+  color: red;
+  margin-left: 15px;
+
+}
